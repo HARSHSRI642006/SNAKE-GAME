@@ -27,7 +27,7 @@ Navigate to the directory where the files are located.
 Run the game by executing the following command in your terminal:
 
 
-python main.py**
+python main.py**:
 **Game Rules****:
 The snake moves continuously, and your job is to control its direction using the arrow keys.
 Every time the snake eats the food, it grows in length, and your score increases.
